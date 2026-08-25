@@ -52,6 +52,18 @@ As Generative AI tools proliferate across academic institutions, educators face 
 
 ---
 
+## 🚀 Project Outcome
+
+This project demonstrates an end-to-end data analytics workflow for investigating the complex relationship between Generative AI, academic performance, and student well-being.
+
+The analysis moves from:
+
+Raw Data → Cleaning → EDA → SQL → Statistical Analysis → Power BI → Insights → Recommendations
+
+Rather than evaluating GenAI purely as a productivity tool, the project highlights the trade-off between academic efficacy and student well-being, demonstrating how data can be used to support more informed decisions around AI adoption in higher education.
+
+---
+
 ## 📂 Repository Structure
 
 The-GenAI-Paradox/
@@ -67,16 +79,5 @@ The-GenAI-Paradox/
    └── dashboard_overview.png
 └── README.md
 
----
 
-## 🚀 Project Outcome
-
-This project demonstrates an end-to-end data analytics workflow for investigating the complex relationship between Generative AI, academic performance, and student well-being.
-
-The analysis moves from:
-
-Raw Data → Cleaning → EDA → SQL → Statistical Analysis → Power BI → Insights → Recommendations
-
-Rather than evaluating GenAI purely as a productivity tool, the project highlights the trade-off between academic efficacy and student well-being, demonstrating how data can be used to support more informed decisions around AI adoption in higher education.
-## 📂 Repository Structure
 
