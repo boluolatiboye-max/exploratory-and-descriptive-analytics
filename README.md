@@ -68,15 +68,14 @@ Rather than evaluating GenAI purely as a productivity tool, the project highligh
 
 The-GenAI-Paradox/
 ├── data/
-   └── ai_student_impact_dataset.xlsx
-├── sql/
-   └── ai_student_analysis.sql
-├── python/
-   └── ai_student_analysis.ipynb
+   └── ai_student_impact_dataset (1).xlsx
+   
 ├── dashboards/
-   └── genai_academic_efficacy_dashboard.pbix
+   └── AI paradox.pbix
+   
 ├── images/
-   └── dashboard_overview.png
+   └── Screenshot 2026-08-14 170617.png
+   
 └── README.md
 
 
