@@ -66,18 +66,13 @@ Rather than evaluating GenAI purely as a productivity tool, the project highligh
 
 ## 📂 Repository Structure
 
-The-GenAI-Paradox/
-
-
-📊 [data set](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/ai_student_impact_dataset%20(1).xlsx)
-
-   
-📕 [dashboards](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/AI%20paradox.pbix)
-
-   
-🖼️ [images](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/Screenshot%202026-08-14%20170617.png)
-   
-└── README.md
-
+```text
+├── data/
+│   └── [ai_student_impact_dataset.xlsx](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/ai_student_impact_dataset%20(1).xlsx)        # Dataset (50,000 student records)
+├── dashboards/
+│   └── [genai_academic_efficacy_dashboard.pbix](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/AI%20paradox.pbix) # Interactive Power BI Dashboard
+├── images/
+│   └── [dashboard_overview.png](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/Screenshot%202026-08-14%20170617.png)                # Dashboard preview screenshot
+└── README.md                                 # Project documentation
 
 
