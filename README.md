@@ -67,14 +67,11 @@ Rather than evaluating GenAI purely as a productivity tool, the project highligh
 ## 📂 Repository Structure
 
 The-GenAI-Paradox/
-├── data/
-   └── ai_student_impact_dataset (1).xlsx
+![data set](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/ai_student_impact_dataset%20(1).xlsx)
    
-├── dashboards/
-   └── AI paradox.pbix
+![dashboards](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/AI%20paradox.pbix)
    
-├── images/
-   └── Screenshot 2026-08-14 170617.png
+![images](https://github.com/boluolatiboye-max/images/blob/0915d97799542b7152a10f8be8aaf4ca311d89a1/Screenshot%202026-08-14%20170617.png)
    
 └── README.md
 
